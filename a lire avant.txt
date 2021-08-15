@@ -1,0 +1,19 @@
+Avant tout démarrer le script dans votre server.cfg ou ressources.cfg
+
+start b_gym
+
+
+
+En cas de beug ou de questions contactez moi sur discord.
+
+Mon discord : Banes#1927
+
+
+
+
+N'hésitez pas a passez sur ma chaine yt ou twitch.
+
+
+Ma chaine : https://www.youtube.com/channel/UCVT5ylMiLgPYminfV4QjgTA
+
+Twitch : https://www.twitch.tv/banes__
