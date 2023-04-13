@@ -25,5 +25,4 @@ Twitch : https://www.twitch.tv/banes__
 
 
 Voici le liens du script esx_gym : https://github.com/P4NDAzzGaming/esx_gym
-
 Et voici le créteur du script esx_gym : https://github.com/P4NDAzzGaming
